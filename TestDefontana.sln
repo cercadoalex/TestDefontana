@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arbol", "Arbol\Arbol.csproj", "{DA8F296B-18EB-4A47-8FE2-37B4B7A4964C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Busqueda", "Busqueda\Busqueda.csproj", "{3681BFC0-49AF-4E94-8393-80005D646B96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA8F296B-18EB-4A47-8FE2-37B4B7A4964C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8F296B-18EB-4A47-8FE2-37B4B7A4964C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8F296B-18EB-4A47-8FE2-37B4B7A4964C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8F296B-18EB-4A47-8FE2-37B4B7A4964C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3681BFC0-49AF-4E94-8393-80005D646B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3681BFC0-49AF-4E94-8393-80005D646B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3681BFC0-49AF-4E94-8393-80005D646B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3681BFC0-49AF-4E94-8393-80005D646B96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC7C5753-6943-486A-B46C-B2D56FBCF8E8}
+	EndGlobalSection
+EndGlobal

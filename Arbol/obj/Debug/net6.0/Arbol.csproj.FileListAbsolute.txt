@@ -1,0 +1,17 @@
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Arbol\bin\Debug\net6.0\Arbol.exe
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Arbol\bin\Debug\net6.0\Arbol.deps.json
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Arbol\bin\Debug\net6.0\Arbol.runtimeconfig.json
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Arbol\bin\Debug\net6.0\Arbol.dll
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Arbol\bin\Debug\net6.0\ref\Arbol.dll
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Arbol\bin\Debug\net6.0\Arbol.pdb
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Arbol\obj\Debug\net6.0\Arbol.csproj.AssemblyReference.cache
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Arbol\obj\Debug\net6.0\Arbol.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Arbol\obj\Debug\net6.0\Arbol.AssemblyInfoInputs.cache
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Arbol\obj\Debug\net6.0\Arbol.AssemblyInfo.cs
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Arbol\obj\Debug\net6.0\Arbol.csproj.CoreCompileInputs.cache
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Arbol\obj\Debug\net6.0\Arbol.dll
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Arbol\obj\Debug\net6.0\ref\Arbol.dll
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Arbol\obj\Debug\net6.0\Arbol.pdb
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Arbol\obj\Debug\net6.0\Arbol.genruntimeconfig.cache
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Arbol\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Arbol\obj\Debug\net6.0\Arbol.csproj.CopyComplete

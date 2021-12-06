@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oSmaqZVJO0Yom+Pp3kOpA8IBSqjyGxZ62TAUjggkFYKrdobl4FG+DHNe8fNgm0MXs9w0ezLu+bu7Z6l4myWSLw==",
+  "success": true,
+  "projectFilePath": "E:\\PRUEBAS DE ENTREVISTA\\DEFONTANA\\TestDefontana\\Arbol\\Arbol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

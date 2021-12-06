@@ -1,0 +1,15 @@
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Busqueda\bin\Debug\net6.0\Busqueda.exe
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Busqueda\bin\Debug\net6.0\Busqueda.deps.json
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Busqueda\bin\Debug\net6.0\Busqueda.runtimeconfig.json
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Busqueda\bin\Debug\net6.0\Busqueda.dll
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Busqueda\bin\Debug\net6.0\ref\Busqueda.dll
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Busqueda\bin\Debug\net6.0\Busqueda.pdb
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Busqueda\obj\Debug\net6.0\Busqueda.csproj.AssemblyReference.cache
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Busqueda\obj\Debug\net6.0\Busqueda.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Busqueda\obj\Debug\net6.0\Busqueda.AssemblyInfoInputs.cache
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Busqueda\obj\Debug\net6.0\Busqueda.AssemblyInfo.cs
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Busqueda\obj\Debug\net6.0\Busqueda.csproj.CoreCompileInputs.cache
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Busqueda\obj\Debug\net6.0\Busqueda.dll
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Busqueda\obj\Debug\net6.0\ref\Busqueda.dll
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Busqueda\obj\Debug\net6.0\Busqueda.pdb
+E:\PRUEBAS DE ENTREVISTA\DEFONTANA\TestDefontana\Busqueda\obj\Debug\net6.0\Busqueda.genruntimeconfig.cache
